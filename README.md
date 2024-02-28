@@ -1,7 +1,5 @@
 ### react-slick
 
-[![Backers on Open Collective](https://opencollective.com/react-slick/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-slick/sponsors/badge.svg)](#sponsors)
-
 ##### Carousel component built with React. It is a react port of [slick carousel](http://kenwheeler.github.io/slick/)
 
 ## [Documentation](http://react-slick.neostack.com)
@@ -106,11 +104,3 @@ npm install
 npm start
 open http://localhost:8080
 ```
-
-## Community
-
-Join our [discord channel](https://discord.gg/z7stRE4Cyb) to discuss react-slick bugs and ask for help
-
-## Contributing
-
-Please see the [contributing guidelines](./CONTRIBUTING.md)
