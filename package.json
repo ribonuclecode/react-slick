@@ -1,6 +1,6 @@
 {
-  "name": "react-slick",
-  "version": "0.30.2",
+  "name": "react-slick-ribo",
+  "version": "0.30.3",
   "description": " React port of slick carousel",
   "main": "./lib",
   "files": [
@@ -21,7 +21,7 @@
     "test-watch": "jest --watch",
     "clear-jest": "jest --clearCache"
   },
-  "author": "Kiran Abburi",
+  "author": "ribonuclecode",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -112,10 +112,5 @@
   "bugs": {
     "url": "https://github.com/akiran/react-slick/issues"
   },
-  "homepage": "https://react-slick.neostack.com",
-  "collective": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/react-slick",
-    "logo": "https://opencollective.com/opencollective/logo.txt"
-  }
+  "homepage": "https://react-slick.neostack.com"
 }
